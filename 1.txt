@@ -1,0 +1,1 @@
+Software development often involves teamwork. The source code of a program is the raw format that is transformed into machine code with a compiler’s help. An efficient programmer checks the program code with a similarity checker for plagiarism. It is unethical to steal patented program codes without permission.
